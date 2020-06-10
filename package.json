@@ -1,0 +1,22 @@
+{
+    "name": "kode.tv",
+    "version": "0.0.0",
+    "description": "Kode.tv Bootstrapp",
+    "main": "index.js",
+    "directories": {
+        "test": "tests"
+    },
+    "scripts": {
+        "test": "npm test",
+        "start": "http-server -p 1337 $SRC"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@bitbucket.org:jiminikiz/kode.tv.git"
+    },
+    "keywords": [
+        "webtv"
+    ],
+    "author": "jiminikiz",
+    "license": "BSD-2-Clause"
+}
